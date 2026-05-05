@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Data outputs
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+
+# System
+.DS_Store
+Thumbs.db
